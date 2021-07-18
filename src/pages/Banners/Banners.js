@@ -33,8 +33,9 @@ export const Banners = () => {
           "https://via.placeholder.com/851x200",
           "https://via.placeholder.com/852x200",
           "https://via.placeholder.com/853x200",
-          "https://via.placeholder.com/854x200",
+          "https://via.placeholder.com/854x200"
         ]}
       />
     </div>
   );
+};
